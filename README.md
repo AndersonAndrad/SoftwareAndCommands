@@ -37,6 +37,8 @@ A brief documentation of the software I use, both on linux and windows platform.
 
 [Stack control](#Stack-control)
 
+[Documentation](#documentation)
+
 ## [Linux](#linux)
 
 
@@ -126,6 +128,10 @@ A brief documentation of the software I use, both on linux and windows platform.
 
 - [npm](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/en/)
+
+## Documentation
+
+- [DevDocs Desktop](https://devdocs.egoist.moe/)
 
 ### [Adobe collection](https://www.adobe.com/creativecloud/desktop-app.html)
 
