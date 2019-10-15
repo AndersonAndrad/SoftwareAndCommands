@@ -45,95 +45,171 @@ A brief documentation of the software I use, both on linux and windows platform.
 
 # Windows (Windows 10 or Up)
 
-## Software
+### 
 
-## Documentation
+Choco
 
-- [Typora](https://typora.io/#windows)
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
 
-## IDE
+Virtual Box
 
-- [phpStorm](https://www.jetbrains.com/phpstorm/?fromMenu)
-- [webStorm](https://www.jetbrains.com/webstorm/?fromMenu)
-- [Datagrip](https://www.jetbrains.com/datagrip/?fromMenu)
-- [Hub](https://www.jetbrains.com/hub/?fromMenu) 
-- [pyCharm](https://www.jetbrains.com/pycharm/?fromMenu)
-- [Arduino](https://www.arduino.cc/en/Main/Software)
+```
+choco install virtualbox
+```
 
-## Editor
+Genymotion (Android Simulator)
 
-- [Visual studio code](https://code.visualstudio.com/)
+```
+choco install genymotion
+```
 
-## Screen shot
+Android Studio
 
-- [Lightshot](https://app.prntscr.com/pt-br/index.html)
+```
+choco install androidstudio
+choco install android-sdk
+```
 
-## Control version
+Docker
 
-- [Git](https://git-scm.com/)
+```
+choco install docker-cli
+choco install docker-desktop
+```
 
-## Works
+VS Code
 
-- [Word packet](https://www.office.com/)
+```
+choco install vscode
+```
 
-## Communication
+Hyper
 
-- [Discord](https://discordapp.com/)
-- [WhatsApp](https://www.whatsapp.com/)
-- [Telegram](https://telegram.org/)
+```
+choco install hyper
+```
 
-## Localhost
+python
 
--  [Xampp](https://www.apachefriends.org/index.html)
+```
+choco install python
+```
 
-## Grammarly verification
+Discord
 
-- [Grammarly](https://www.grammarly.com/)
+```
+choco install discord
+```
 
-## Browser
+Insomnia
 
--  [Firefox](https://www.mozilla.org/en-US/firefox/new/) (US version)
+```
+choco install insomnia-rest-api-client
+```
 
-## Music
+DevDocs
 
--  [Spotify](https://www.spotify.com/)
+```
+choco install devdocs-app
+```
 
-## Prototype
+Git
 
-- [Adobe XD](https://www.adobe.com/products/xd.html)
-- [Pencil](https://pencil.evolus.vn/)
-- [Balsamiq](https://balsamiq.com/)
-- [Figma](https://www.figma.com/files/recent) 
+```
+choco install git
+```
 
-## Programmer languages
+Typora
 
-- [Python](https://www.python.org/downloads/)
-- [Java](https://www.java.com/pt_BR/download/)
+```
+choco install typora
+```
 
-## Api test
+Figma
 
-- [Insomnia](https://insomnia.rest/)
+```
+choco install figma
+```
 
-## Mongo DB
+Firefox
 
-- [MongoDB compass community](https://docs.mongodb.com/compass/master/install/) (Verify bank data)
-- [Robo 3T](https://robomongo.org/) (Connect to database)
+```
+choco install firefox
+```
 
-## Dependency control
+Office 2016
 
-- [Composer](https://getcomposer.org/)
-- [Docker composer](https://docs.docker.com/docker-for-windows/)
+```
+choco install microsoft-office-deployment
+```
 
-## Stack control
+Node LTS
 
-- [npm](https://www.npmjs.com/)
-- [Yarn](https://yarnpkg.com/en/)
+```
+choco install nodejs-lts
+```
 
-## Documentation
+Node (Ultimate version)
 
-- [DevDocs Desktop](https://devdocs.egoist.moe/)
+```
+choco install nodejs
+```
 
-### [Adobe collection](https://www.adobe.com/creativecloud/desktop-app.html)
+Yarn
+
+```
+choco install yarn
+```
+
+RocketDock
+
+```
+choco install rocketdock
+```
+
+JDK
+
+```
+choco install javaruntime
+```
+
+LightShot
+
+```
+choco install lightshot.install
+```
+
+SpeedFan
+
+```
+choco install speedfan
+```
+
+Telegram
+
+```
+choco install telegram
+```
+
+Whatsapp
+
+```
+choco install whatsapp
+```
+
+Calibre
+
+```
+choco install calibre
+```
+
+VLC
+
+```
+choco install vlc
+```
 
 ------
 
