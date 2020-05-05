@@ -210,6 +210,10 @@ VLC
 ```
 choco install vlc
 ```
+edge
+```
+choco install microsoft-edge
+```
 
 ------
 
