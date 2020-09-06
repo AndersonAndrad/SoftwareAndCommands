@@ -41,11 +41,7 @@ A brief documentation of the software I use, both on linux and windows platform.
 
 ## [Linux](#linux)
 
-
-
 # Windows (Windows 10 or Up)
-
-### 
 
 Choco
 
@@ -214,6 +210,36 @@ edge
 ```
 choco install microsoft-edge
 ```
+
+eartrumpet
+
+```
+choco install eartrumpet
+```
+
+powertoys
+
+```
+choco install powertoys
+```
+
+
+
+## All commands
+
+Desktop
+
+```
+choco install virtualbox genymotion androidstudio android-sdk docker-cli docker-desktop vscode hyper discord  insomnia-rest-api-client nodejs-lts typora git figma firefox yarn rocketdock javaruntime lightshot.install telegram whatsapp vlc powertoys eartrumpet
+```
+
+Laptop
+
+```
+choco install virtualbox genymotion androidstudio android-sdk docker-cli docker-desktop vscode hyper discord  insomnia-rest-api-client nodejs-lts typora git figma firefox yarn rocketdock javaruntime lightshot.install telegram whatsapp vlc speedfan powertoys eartrumpet
+```
+
+
 
 ------
 
