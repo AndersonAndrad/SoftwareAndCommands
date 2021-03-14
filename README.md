@@ -230,7 +230,7 @@ choco install powertoys
 Desktop
 
 ```
-choco install virtualbox genymotion androidstudio android-sdk docker-cli docker-desktop vscode hyper discord  insomnia-rest-api-client nodejs-lts typora git figma firefox yarn rocketdock javaruntime lightshot.install telegram whatsapp vlc powertoys eartrumpet firacode jetbrainsmono translucenttb
+choco install virtualbox genymotion androidstudio android-sdk docker-cli docker-desktop vscode hyper discord  insomnia-rest-api-client nodejs-lts typora git figma firefox yarn rocketdock javaruntime lightshot.install telegram whatsapp vlc powertoys eartrumpet firacode jetbrainsmono translucenttb steam-client epicgameslauncher uplay 
 ```
 
 Laptop
