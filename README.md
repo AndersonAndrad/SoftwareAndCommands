@@ -241,7 +241,10 @@ Laptop
 ```
 choco install docker-cli docker-desktop vscode hyper discord  insomnia-rest-api-client nodejs-lts typora git figma firefox yarn rocketdock javaruntime lightshot.install telegram whatsapp vlc speedfan powertoys eartrumpet firacode
 ```
-
+work
+```
+choco install docker-cli docker-desktop vscode hyper discord insomnia-rest-api-client nodejs-lts typora git firefox yarn javaruntime lightshot.install telegram whatsapp powertoys eartrumpet firacode jetbrainsmono translucenttb github-desktop microsoft-teams.install forticlientvpn notion
+```
 
 
 ------
