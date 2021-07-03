@@ -233,17 +233,17 @@ choco install powertoys
 Desktop
 
 ```
-choco install virtualbox genymotion androidstudio android-sdk docker-cli docker-desktop vscode hyper discord  insomnia-rest-api-client nodejs-lts typora git figma firefox yarn rocketdock javaruntime lightshot.install telegram whatsapp vlc powertoys eartrumpet firacode jetbrainsmono translucenttb steam-client epicgameslauncher uplay github-desktop
+choco install -a virtualbox genymotion androidstudio android-sdk docker-cli docker-desktop vscode hyper discord  insomnia-rest-api-client nodejs-lts typora git figma firefox yarn rocketdock javaruntime lightshot.install telegram whatsapp vlc powertoys eartrumpet firacode jetbrainsmono translucenttb steam-client epicgameslauncher uplay github-desktop wsl2
 ```
 
 Laptop
 
 ```
-choco install docker-cli docker-desktop vscode hyper discord  insomnia-rest-api-client nodejs-lts typora git figma firefox yarn rocketdock javaruntime lightshot.install telegram whatsapp vlc speedfan powertoys eartrumpet firacode
+choco install -a docker-cli docker-desktop vscode hyper discord  insomnia-rest-api-client nodejs-lts typora git figma firefox yarn rocketdock javaruntime lightshot.install telegram whatsapp vlc speedfan powertoys eartrumpet firacode wsl2
 ```
 work
 ```
-choco install docker-cli docker-desktop vscode hyper discord insomnia-rest-api-client nodejs-lts typora git firefox yarn javaruntime lightshot.install telegram whatsapp powertoys eartrumpet firacode jetbrainsmono translucenttb github-desktop microsoft-teams.install forticlientvpn notion
+choco install -a docker-cli docker-desktop vscode hyper discord insomnia-rest-api-client nodejs-lts typora git firefox yarn javaruntime lightshot.install telegram whatsapp powertoys eartrumpet firacode jetbrainsmono translucenttb github-desktop microsoft-teams.install forticlientvpn notion wsl2
 ```
 
 
